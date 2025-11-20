@@ -1,0 +1,10 @@
+GIT
+- GIT é seguro e Distribuído
+Commit é unico e impossivel de ser alterado, por conta da estrutura
+** Comandos
+git status - verifica em qual status está suas alterações
+git add - vai para Staged
+git commit - sai do staged e cria um snapshot
+
+- Chave SSH 
+Forma de se conectar com maquinas confiaveis
